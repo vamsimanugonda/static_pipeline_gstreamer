@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gstreamer/Gstreamer.vcxproj" Id="9cd4dfc4-8772-4e47-b436-216b923c99fb" />
+</Solution>
